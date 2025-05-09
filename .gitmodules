@@ -1,5 +1,0 @@
-[submodule "minecraft-data"]
-  path = minecraft-data
-  url  = https://github.com/Seanspt/minecraft-data.git
-  branch = minecraft-data/feat/1.21.5-support
-
