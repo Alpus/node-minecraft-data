@@ -6,7 +6,8 @@
   "tonicExampleFilename": "example.js",
   "files": [
     "lib",
-    "minecraft-data"
+    "minecraft-data",
+    "data.js"
   ],
   "scripts": {
     "generate:types": "node typings/generate-typings.js",
