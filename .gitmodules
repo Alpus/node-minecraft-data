@@ -1,3 +1,4 @@
 [submodule "minecraft-data"]
 	path = minecraft-data
-	url = https://github.com/PrismarineJS/minecraft-data.git
+	url = https://github.com/Seanspt/minecraft-data
+	branch = minecraft-data/feat/1.21.5-support
